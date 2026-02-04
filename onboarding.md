@@ -1,6 +1,7 @@
 **Estruturação do Onboarding**
 ------------------------------
 
+
 O processo de onboarding seria estruturado em fases claras e progressivas, garantindo que o parceiro evolua de forma organizada até operar com autonomia, independentemente de quem esteja executando o processo.Antes do início formal do onboarding, eu criaria um material de pré-onboarding para preparar o parceiro, alinhar expectativas e reduzir a ansiedade. Esse material serviria como apoio durante o treinamento e referência futura, facilitando a autonomia do parceiro e acelerando a ativação. **O que esse material deveria conter (simples e estratégico):**
 
 **1- Visão geral da parceria:** O que é a solução? Qual problema ela resolve?**2 - Como será o onboarding**: etapas do processo; o que será tratado em cada fase; duração estimada.**3️ -  Expectativas e responsabilidades:** o que o parceiro precisa fazer; o que ele pode esperar do CS.**4️ -  Materiais de apoio:** conteúdos que serão usados no treinamento; onde encontrar ajuda depois.**Estruturação do onboarding em si.****Fase 1 – Transição Comercial → Onboarding**
